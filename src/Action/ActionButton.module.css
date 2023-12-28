@@ -1,0 +1,12 @@
+.button {
+
+    margin-left: 1vw;
+    margin-right: 1vw;
+    padding: 0.2vw 1vw;
+    border-radius: 0.5vw;
+    font-size: 1vw;
+    outline: none;
+    border: none;
+    cursor: pointer;
+
+}

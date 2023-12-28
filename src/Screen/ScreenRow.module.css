@@ -1,0 +1,14 @@
+.row {
+
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1vw 0vw;
+    font-size: 1vw;
+    border-top: solid white 0.2vw;
+    border-bottom: solid white 0.2vw;
+    margin-top: 1vw;
+
+}
